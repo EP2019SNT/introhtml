@@ -1,7 +1,7 @@
 <HTML>
 <HEAD>
 </HEAD>
-<font color="red">Hello world
 <BODY>
+<font color="blue">j'aime pas les math
 </BODY>
 </HTML>
