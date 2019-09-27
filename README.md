@@ -2,6 +2,6 @@
 <HEAD>
 </HEAD>
 <BODY>
-<font color="blue">j'aime pas les math
+<font color="blue"> j'aime pas les math
 </BODY>
 </HTML>
